@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello, I'm Anelya! 🦦
 
-<!--
-**anelyay/anelyay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 About Me
 
-Here are some ideas to get you started:
+I'm a passionate software developer with a background in healthcare and business operations. I'm dedicated to creating innovative solutions that improve everyday life. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ Current Focus:
+
+- **Otter Pill**: A comprehensive medication management app integrating NFC for seamless medication adherence tracking. I'm continually improving its features and functionality to better serve users.
+- **Lab App**: An app to efficiently track, manage, and analyze lab results for improved patient care and streamlined medical record-keeping.
+- **Python**: Diving into Python to broaden my programming capabilities and explore its applications in data analysis and automation.
+
+## 💻 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs,express,heroku,mysql,netlify,wordpress,postman,)](https://skillicons.dev)
+
+
+### 👋 Get in Touch
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aanelya/).
