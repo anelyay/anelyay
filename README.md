@@ -16,4 +16,4 @@ I'm a passionate software developer with a background in healthcare and business
 
 ### 👋 Get in Touch
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aanelya/).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/anelyay/).
