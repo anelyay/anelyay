@@ -11,7 +11,7 @@ I'm a passionate software developer with a background in healthcare and business
 - **Python**: Diving into Python to broaden my programming capabilities and explore its applications in data analysis and automation.
 
 ## 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs,express,heroku,mysql,netlify,wordpress,postman,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs,python,npm,nextjs,express,github,git,heroku,mysql,netlify,wordpress,postman,vscode,vite)](https://skillicons.dev)
 
 
 ### 👋 Get in Touch
